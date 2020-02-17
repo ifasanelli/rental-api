@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "license_plate": "ABC-1234",
+    "color": "Preto",
+    "car_model_id": 1,
+    "mileage": 120,
+    "subsidiary_id": 1,
+    "status": 0
+  },
+  {
+    "id": 2,
+    "license_plate": "DEF-5678",
+    "color": "Prata",
+    "car_model_id": 1,
+    "mileage": 120,
+    "subsidiary_id": 1,
+    "status": 0
+  }
+]

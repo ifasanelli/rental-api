@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Ka",
+    "motorization":"1.0",
+    "year":"2019",
+    "fuel_type":"Gasolina",
+    "car_category_id":1,
+    "manufacturer_id":1
+  },
+  {
+    "id":1,
+    "name":"Fiesta",
+    "motorization":"1.6",
+    "year":"2019",
+    "fuel_type":"Gasolina",
+    "car_category_id":1,
+    "manufacturer_id":1
+  }
+]

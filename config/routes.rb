@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   resources :manufacturers, only: %i[index show]
   resources :subsidiaries, only: %i[index show]
   resources :car_categories, only: %i[index show]
+  resources :car_models, only: %i[index show]
+  resources :cars, only: %i[index show]
 end
