@@ -4,4 +4,5 @@ Rails.application.routes.draw do
   root to: 'home#index'
   resources :manufacturers, only: %i[index show]
   resources :subsidiaries, only: %i[index show]
+  resources :car_categories, only: %i[index show]
 end

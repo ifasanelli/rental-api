@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "A",
+    "daily_rate": 100.95,
+    "car_insurance": 50.95,
+    "third_part_insurance": 150.45
+
+  },
+  {
+    "id": 2,
+    "name": "AA",
+    "daily_rate": 150.95,
+    "car_insurance": 100.95,
+    "third_part_insurance": 200.45
+
+  },
+  {
+    "id": 3,
+    "name": "AAA",
+    "daily_rate": 200.95,
+    "car_insurance": 250.95,
+    "third_part_insurance": 350.45
+
+  }
+]
