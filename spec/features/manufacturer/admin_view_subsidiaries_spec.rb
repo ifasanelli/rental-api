@@ -2,6 +2,8 @@ require 'rails_helper'
 
 feature 'Admin view subsidiaries' do
   scenario 'successfully' do
+    user = User.create(email: 'it@it.com', password: '123456', name: 'Italo')
+    login_as(user, scope: :user)
     visit root_path
     click_on 'Filiais'
 
@@ -10,6 +12,8 @@ feature 'Admin view subsidiaries' do
   end
 
   scenario 'and see manufacturer details' do
+    user = User.create(email: 'it@it.com', password: '123456', name: 'Italo')
+    login_as(user, scope: :user)
     visit root_path
     click_on 'Filiais'
     click_on 'Filial Santos'
