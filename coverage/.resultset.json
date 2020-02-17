@@ -7,8 +7,8 @@
           1,
           null,
           1,
-          8,
-          8,
+          10,
+          10,
           null,
           null,
           null,
@@ -22,7 +22,51 @@
           null,
           3,
           3,
-          7,
+          9,
+          null,
+          null,
+          3,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/italo/projetos/gitlab/campus-code/rental-api/app/models/subsidiary.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          6,
+          6,
+          6,
+          6,
+          null,
+          null,
+          null,
+          1,
+          3,
+          3,
+          null,
+          3,
+          null,
+          3,
+          null,
+          3,
+          3,
+          5,
           null,
           null,
           3,
@@ -62,8 +106,21 @@
           null,
           null
         ]
+      },
+      "/home/italo/projetos/gitlab/campus-code/rental-api/app/controllers/subsidiaries_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1581901096
+    "timestamp": 1581904983
   }
 }

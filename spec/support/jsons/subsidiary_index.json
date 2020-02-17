@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Filial Santos",
+    "cnpj": "09343591000174",
+    "address": "Rua de Santos, 13"
+
+  },
+  {
+    "id": 2,
+    "name": "Filial Ipiranga",
+    "cnpj": "41250389000100",
+    "address": "Rua do Ipiranga, 11"
+
+  },
+  {
+    "id": 3,
+    "name": "Filial Maresias",
+    "cnpj": "91392669000121",
+    "address": "Rua de Maresias, 12"
+
+  }
+
+]

@@ -1,7 +1,5 @@
 require 'rails_helper'
 
-require 'rails_helper'
-
 describe Manufacturer do
   it 'should get all manufacturers via API' do
     url = 'http://localhost:3000/api/v1/manufacturers'
